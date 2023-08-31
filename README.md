@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
- https://github.com/Rooshidhinaiya/Habit-Tracker-app
+https://github.com/ab1nash10/react-habitTracker
 
 ## Available Scripts
 
@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) or [3sup0y-3000.csb.app](https://3sup0y-3000.csb.app)
+Open [http://localhost:3000](http://localhost:3000)
   to view it in your browser.
 
 The page will reload when you make changes.\
